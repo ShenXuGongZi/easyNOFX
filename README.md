@@ -1,5 +1,7 @@
 # easyNOFX
 
+*源项目地址：https://github.com/tinkle-community/nofx*
+
 一键配置【NOFX】AI交易系统
 
 ```
