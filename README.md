@@ -6,7 +6,7 @@
 wget https://raw.githubusercontent.com/ShenXuGongZi/easyNOFX/refs/heads/main/install_nofx_ubuntu.sh  && chmod +x install_nofx_ubuntu.sh && bash install_nofx_ubuntu.sh `
 ```
 
-管理脚本
+**管理脚本**
 
 ```
 nofx
@@ -21,3 +21,11 @@ nofx
 * 备份配置
 * 资源监控
 * 完全卸载
+
+**一键更新脚本**
+
+* 可一键同步nofx源码更新
+
+```
+wget https://raw.githubusercontent.com/ShenXuGongZi/easyNOFX/refs/heads/main/force_update_nofx.sh && chmod +x force_update_nofx.sh  && bash force_update_nofx.sh 
+```
