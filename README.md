@@ -27,5 +27,7 @@ nofx
 * 可一键同步nofx源码更新
 
 ```
-wget https://raw.githubusercontent.com/ShenXuGongZi/easyNOFX/refs/heads/main/force_update_nofx.sh && chmod +x force_update_nofx.sh  && bash force_update_nofx.sh 
+wget https://raw.githubusercontent.com/ShenXuGongZi/easyNOFX/refs/heads/main/force_update_nofx.sh && chmod +x force_update_nofx.sh  && bash force_update_nofx.sh
 ```
+
+`找到这一行并修改为你的域名 YOUR\_DOMAIN="hype.teidihen.com"  # 改成你的域名`
