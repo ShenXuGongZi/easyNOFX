@@ -3,11 +3,13 @@
 *源项目地址：https://github.com/tinkle-community/nofx*
 
 ASTER 用户注意:
-目前只支持USDT不支持USDF，
+目前只支持USDT不支持USDF
+
 持仓模式改成必须要单项持仓
 
-一键配置【NOFX】AI交易系统
-本程序仅支持 Ubuntu24.04系统
+**一键配置【NOFX】AI交易系统**
+
+*本程序仅支持 Ubuntu24.04系统*
 
 ```
 wget https://raw.githubusercontent.com/ShenXuGongZi/easyNOFX/refs/heads/main/install_nofx_ubuntu.sh  && chmod +x install_nofx_ubuntu.sh && bash install_nofx_ubuntu.sh `
