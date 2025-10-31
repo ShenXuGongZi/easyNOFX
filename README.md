@@ -14,7 +14,7 @@ Linode（注册送100美元）[点我注册领取](https://https://www.linode.co
 **交易所注册链接：**
 hyperliquid(免KYC)：[点我注册](https://https://app.hyperliquid.xyz/join/HANGZAI)
 
-ASTER[推荐](免KYC)： [点我注册](https://https://www.asterdex.com/zh-CN/referral/961369)
+ASTER<推荐>(免KYC)： [点我注册](https://https://www.asterdex.com/zh-CN/referral/961369)
 
 币安注册链接：[点我注册](https://https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_YXCTX&utm_source=default)
 
