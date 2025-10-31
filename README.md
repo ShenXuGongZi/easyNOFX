@@ -5,18 +5,18 @@
 ---
 
 **VPS推荐：**
-DMIT（支持USDT支付） [点我注册](https://https://www.dmit.io/aff.php?aff=14244)  //选香港服务器即可
+DMIT（支持USDT支付） [点我注册](https://www.dmit.io/aff.php?aff=14244)  //选香港服务器即可
 
-Linode（注册送100美元）[点我注册领取](https://https://www.linode.com/lp/refer/?r=1e3ab5787e6535408abb5b4a02e6e96801cf325b)  //需要有信用卡 选印尼或者日本服务器
+Linode（注册送100美元）[点我注册领取](https://www.linode.com/lp/refer/?r=1e3ab5787e6535408abb5b4a02e6e96801cf325b)  //需要有信用卡 选印尼或者日本服务器
 
 ---
 
 **交易所注册链接：**
-hyperliquid(免KYC)：[点我注册](https://https://app.hyperliquid.xyz/join/HANGZAI)
+hyperliquid(免KYC)：[点我注册](https://app.hyperliquid.xyz/join/HANGZAI)
 
 ASTER<推荐>(免KYC)： [点我注册](https://www.asterdex.com/zh-CN/referral/961369)
 
-币安注册链接：[点我注册](https://https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_YXCTX&utm_source=default)
+币安注册链接：[点我注册](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_YXCTX&utm_source=default)
 
 ---
 
