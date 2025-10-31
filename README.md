@@ -2,6 +2,12 @@
 
 *源项目地址：https://github.com/tinkle-community/nofx*
 
+**VPS推荐：**
+DMIT（支持USDT支付） [https://www.dmit.io/aff.php?aff=14244](https://https://www.dmit.io/aff.php?aff=14244)  //选香港服务器即可
+
+Linode（注册送100美元）[https://www.linode.com/lp/refer/?r=1e3ab5787e6535408abb5b4a02e6e96801cf325b](https://https://www.linode.com/lp/refer/?r=1e3ab5787e6535408abb5b4a02e6e96801cf325b)  //需要有信用卡 选印尼或者日本服务器
+
+
 ASTER 用户注意:
 目前只支持USDT不支持USDF
 
