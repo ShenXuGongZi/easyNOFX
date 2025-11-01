@@ -4,6 +4,11 @@
 
 ---
 
+教程： [https://x.com/hangzai/status/1983960397674901776](https://x.com/hangzai/status/1983960397674901776)
+
+---
+
+
 **VPS推荐：**
 DMIT（支持USDT支付） [点我注册](https://www.dmit.io/aff.php?aff=14244)  //选香港服务器即可
 
@@ -60,4 +65,5 @@ wget https://raw.githubusercontent.com/ShenXuGongZi/easyNOFX/refs/heads/main/for
 ```
 
 `找到这一行并修改为你的域名 YOUR\_DOMAIN="hype.teidihen.com"  # 改成你的域名`
+
 
