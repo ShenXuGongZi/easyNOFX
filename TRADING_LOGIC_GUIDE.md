@@ -1,6 +1,9 @@
 # NOFX 决策引擎逻辑说明 (decision/engine.go)
 
+源项目地址：[https://github.com/tinkle-community/nofx](https://github.com/tinkle-community/nofx)
+
 ## 📋 目录
+
 1. [决策引擎概览](#决策引擎概览)
 2. [开单验证逻辑](#开单验证逻辑)
 3. [止损距离验证](#止损距离验证)
@@ -14,6 +17,7 @@
 ## 🏗️ 决策引擎概览
 
 `decision/engine.go` 是NOFX交易系统的核心决策引擎，负责：
+
 - **AI决策生成**: 构建提示词，调用AI API
 - **决策验证**: 验证AI生成的交易决策是否符合风险控制规则
 - **参数校验**: 检查开仓参数的合法性和安全性
@@ -443,3 +447,4 @@ func validateDecisions(decisions []Decision, ctx *Context) error {
 ---
 
 *本文档专门描述了 `decision/engine.go` 文件中的核心决策逻辑，包括开单验证、止损止盈设置、风险计算和平仓处理的具体实现。*
+
