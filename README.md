@@ -1,4 +1,4 @@
-# easyNOFX
+# easyNOFX(停止更新)
 
 **源项目地址**：https://github.com/tinkle-community/nofx
 
@@ -7,6 +7,8 @@
 声明：我的一键脚本没任何问题，完全是拉取的官方代码（在代码中完全可以体现），都是在您本地配置。欢迎各位大神或者使用AI审计代码。我最多就是加了个返佣而已。
 
 此项目不会再更新（但是也不会有任何改动，自证清白，方便各位大神审计），建议直接去官方教程[https://github.com/NoFxAiOS/nofx/blob/dev/docs/i18n/zh-CN/README.md](https://github.com/NoFxAiOS/nofx/blob/dev/docs/i18n/zh-CN/README.md)
+
+Claude AI 升级结果 [https://claude.ai/share/f61c8a59-1856-4689-8ed5-17b5749ac5ef](https://claude.ai/share/f61c8a59-1856-4689-8ed5-17b5749ac5ef)
 
 ---
 
